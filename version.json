@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "firmware_url": "https://raw.githubusercontent.com/YOUR_USERNAME/esp32-ota-firmware/main/app.bin"
+    "version": "1.0.1",
+    "firmware_url": "https://github.com/circuit12345/firmware/raw/refs/heads/firmware/UVS-SIMULATOR.bin"
   }
   
